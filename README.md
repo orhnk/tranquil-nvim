@@ -11,4 +11,9 @@ Soft colors for sane person.
 ![tranquil_Python](https://user-images.githubusercontent.com/101834410/218577612-f9c923e8-d766-4589-a5a1-2eb6339de556.png)
 
 
-
+```
+git clone https://github.com/KoBruhh/tranquil-vim.git
+cd tranquil-vim
+chmod +x INSTALL
+./INSTALL
+```
