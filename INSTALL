@@ -1,0 +1,2 @@
+mkdir -p ~/.config/nvim/colors/
+cp tranquil.vim ~/.config/nvim/colors/
