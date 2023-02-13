@@ -2,6 +2,9 @@
 
 Soft colors for sane person.
 
+![themer-wallpaper-octagon-dark-1920x906](https://user-images.githubusercontent.com/101834410/218586563-ff894096-8e15-4dae-a1b3-716846392ad6.png)
+
+
 # Screenshots
 
 ![tranquil_Rust](https://user-images.githubusercontent.com/101834410/218577753-22b1e5f9-4895-43c5-a78c-19a09b9d9212.png)
