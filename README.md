@@ -2,7 +2,7 @@
 
 Soft colors for sane person.
 
-![themer-wallpaper-octagon-dark-1920x906](https://user-images.githubusercontent.com/101834410/218586563-ff894096-8e15-4dae-a1b3-716846392ad6.png)
+![tranquil_logo](https://user-images.githubusercontent.com/101834410/218586952-7f1f2e20-1794-4997-8402-9dd33c0b7ca2.png)
 
 
 # Screenshots
