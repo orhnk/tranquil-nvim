@@ -1,7 +1,3 @@
-
-
-  
-  if &background == 'dark'
     
   let s:guishade0 = "#222027"
   let s:guishade1 = "#333343"
@@ -35,10 +31,6 @@
   let s:ctermaccent5 = 217
   let s:ctermaccent6 = 1
   let s:ctermaccent7 = 210
-  
-  endif
-  
-
   
 
   highlight clear
