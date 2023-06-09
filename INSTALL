@@ -1,2 +1,18 @@
-mkdir -p ~/.config/nvim/colors/
-cp tranquil.vim ~/.config/nvim/colors/
+#!/bin/bash
+
+# Check if the script argument is provided and equal to '--vim'
+if [[ "$1" == "--vim" ]]; then
+    vim_dir=~/.vim/colors/
+else if [[ "$1" == "--nvim" ]]; then
+    vim_dir=~/.config/nvim/colors/
+else
+  echo "
+  ./INSTALL <EDITOR>
+      --vim       Vim Installation
+      --nvim      Neovim Installation
+  "
+  exit 1
+fi
+
+mkdir -p "$vim_dir"
+cp tranquil.vim "$vim_dir"
